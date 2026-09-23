@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5685d1928f74186abfa8e36b",
+  "owner": "qh6b3qjke",
+  "repo": "page-5043c5eb3d80263fa127eae7",
+  "title": "永远云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5043c5eb3d80263fa127eae7",
+      "a": "永远云",
+      "b": "稳定全球clash加速器",
+      "entity": "永远云",
+      "brand": "永远云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fe96cfa7a5ab8f345fddfbe5c25d698b0fa79660853d90508930ce2d2dadd383",
+      "content": {
+        "primary_entity": "永远云",
+        "keyword1": "永远云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Clash、Shadowrocket、Surge 等客户端中导入订阅，按设备系统选择对应版本。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和月流量选定套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更从容",
+          "AI_DESCRIPTION": "，永远云提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，设备支持从 3 台到 20 台。旗舰版配备 IPLC 专线节点，适合对延迟敏感的游戏和流媒体场景；团队版支持企业定制路由与专属客户经理。按年付可节省两个月费用，适合长期稳定使用的用户。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路类型三个角度对比套餐，找到匹配日常使用习惯的选择。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，适合手机与电脑两到三台设备轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，IPLC 专线优化游戏延迟。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "流量匹配",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路类型",
+          "AI_GUIDE_INTRO": "根据设备数量与常用场景选择套餐，阅读适配要求后导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "永远云提供多档订阅套餐，覆盖从个人轻量使用到团队多设备接入的场景，按流量和设备数量灵活选择，配合 Clash 等客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "月付 15 元起，年付省两个月",
+          "AI_HIGHLIGHT_2": "IPLC 专线优化游戏延迟",
+          "AI_HIGHLIGHT_3": "最多支持 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与设备数，团队版面向多设备高流量场景。按年付均可节省两个月费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，查看对应适配说明和订阅导入方式。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅地址，完成节点选择与连接测试。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "永远云套餐一览",
+          "AI_FAQ_ANSWER_1": "在订阅管理页面复制订阅链接，粘贴到对应客户的订阅导入功能中即可拉取节点列表。不同客户端的导入入口位置有差异，按其文档操作即可。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。设备数量按同时在线计算，超出后新设备无法连接。",
+          "AI_FAQ_ANSWER_3": "可以。月付按标价结算，年付按年付价一次性支付，基本相当于十个月的费用使用十二个月。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线，对延迟敏感的游戏和实时应用更友好；基础版为普通线路节点池。若主要用于网页浏览，基础版也能满足日常需求。",
+          "AI_FAQ_ANSWER_5": "流量按自然月重置，未用完部分不结转到下月。可在客户端的用量页面查看当前周期已消耗流量和剩余额度。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量、付费周期与流量使用。",
+          "AI_FAQ_QUESTION_1": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版线路有什么不同？",
+          "AI_FAQ_QUESTION_5": "套餐流量如何计算和重置？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4seya694bw0k.com",
+    "host": "xn--9kqy4seya694bw0k.com"
+  },
+  "file_hashes": {
+    "index.html": "2ee2efffd56e82bd59948d7b50a2da552c02f9ed5b5847297db20bae7a7fe0c6",
+    "sitemap.xml": "f7a7489598f24042a8673a5ffb68a921a3e0d704e51d806f164985c1221be6c7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7053053f25224accc050e6ff89292aa3b8614147c1c6cd086f2b948b46a7f7e3",
+    "robots.txt": "2313c64667f1a1fc4d05b7511b503d64fada1abae121958487f8c65059decac9",
+    "348e20afd5000776c04c7c3e31a53508.txt": "8fc07b9357e5d8fdf20e2e050d2c6c8bbac03b9f80ac2c2494a0d683554966a7"
+  },
+  "revision": "751f83f7ce9a4887a1472b012ee141ba9cca0e247fdfe49852c10be0361a00d3"
+}
